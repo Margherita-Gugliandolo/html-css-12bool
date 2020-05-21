@@ -14,7 +14,10 @@
   line-height: 150px;
 }
 
-
+.container:first-of-type>.col-1 {
+  height: 150px;
+  line-height: 20px;
+}
 
 .nested{
   background-color: #ec889f;
